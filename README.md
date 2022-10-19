@@ -6,4 +6,4 @@
 
 ☕️ Can't develop without a hot cup of coffee
 
-🧑🏻‍🏫 Still struggling with credits in college
+🧑🏻‍🏫 Still studying computer science at university
