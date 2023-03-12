@@ -1,6 +1,14 @@
 {
-  "links": {
-    "Github": "https://github.com/davidho0403",
-    "YouTube": "https://www.youtube.com/@1weiho"
-  }
+  "links": [
+    {
+      "title": "GitHub",
+      "description": "My GitHub profile",
+      "url": "https://github.com/davidho0403"
+    },
+    {
+      "title": "YouTube",
+      "description": "My YouTube channel",
+      "url": "https://www.youtube.com/@1weiho"
+    }
+  ]
 }
