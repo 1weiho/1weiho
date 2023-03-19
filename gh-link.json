@@ -9,6 +9,11 @@
       "title": "YouTube",
       "description": "My YouTube channel",
       "url": "https://www.youtube.com/@1weiho"
+    },
+    {
+      "title": "GH Link",
+      "description": "My GH Link page",
+      "url": "https://gh-link.vercel.app/davidho0403"
     }
   ]
 }
