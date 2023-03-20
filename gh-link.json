@@ -3,12 +3,14 @@
     {
       "title": "GitHub",
       "description": "My GitHub profile",
-      "url": "https://github.com/davidho0403"
+      "url": "https://github.com/davidho0403",
+      "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
     },
     {
       "title": "YouTube",
       "description": "My YouTube channel",
-      "url": "https://www.youtube.com/@1weiho"
+      "url": "https://www.youtube.com/@1weiho",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3670/3670147.png"
     },
     {
       "title": "GH Link",
