@@ -4,11 +4,7 @@ My name is Yiwei Ho 👨‍💻
 
 I am a full-stack developer 💻 from Taiwan 🇹🇼 who enjoys having hot coffee while coding ☕️
 
-### Links
-
-Check out the links I pinned 📌 on my website, which can easily create a links page via a JSON file 👇
-
-🔗 [gh-link.vercel.app/1weiho](https://gh-link.vercel.app/1weiho)
+[1wei.dev](https://1wei.dev/)
 
 ### Extensions
 
